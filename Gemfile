@@ -21,6 +21,8 @@ group :test, :development do
   gem "capybara"
   gem "database_cleaner"
   gem "selenium-webdriver"
+  gem 'teaspoon-jasmine'
+  gem 'phantomjs'
 end
 
 group :development do
