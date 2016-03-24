@@ -12,6 +12,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem 'bower-rails'
+gem 'angular-rails-templates', '~> 1.0'
 
 gem 'sass', '3.2.19' 
 group :test, :development do
